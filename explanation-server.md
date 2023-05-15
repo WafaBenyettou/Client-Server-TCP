@@ -51,7 +51,6 @@ We can devided into 3 parts
     
   ## other details : 
   
-  Certainly! Let's go through the parameters of each function in the code:
 
     socket() function:
         Parameters:
